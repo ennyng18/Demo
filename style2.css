@@ -1,0 +1,104 @@
+.about-page,
+.about-page * {
+  box-sizing: border-box;
+}
+.about-page {
+  background: rgba(193, 180, 180, 0.91);
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+}
+.bmgt-407 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 78px;
+  top: 58px;
+  width: 415px;
+  height: 113px;
+}
+.contact {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 1163px;
+  top: 58px;
+  width: 415px;
+  height: 113px;
+}
+.home {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 710px;
+  top: 58px;
+  width: 415px;
+  height: 113px;
+}
+.about {
+  color: #ffffff;
+  text-align: left;
+  font-family: "KronaOne-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 945px;
+  top: 58px;
+  width: 415px;
+  height: 113px;
+}
+.frame-1 {
+  display: flex;
+  flex-direction: column;
+  gap: 98px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1507px;
+  position: absolute;
+  left: 78px;
+  top: 192px;
+}
+.bmgt-407-information-systems-projects {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: relative;
+  align-self: stretch;
+}
+.bmgt-407-is-the-capstone-course-for-information-systems-is-majors-where-students-apply-their-knowledge-to-develop-real-world-is-solutions-for-business-clients-through-a-complete-is-developement-process-students-design-and-implement-functional-prototypes-that-solve-practical-business-challenges-preparing-them-for-careers-in-technology-and-consulting {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: relative;
+  width: 1318px;
+  height: 114px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.professor-paul-t-shapiro-teaching-assistants-bharath-sreekumar-caifu-lin-sumanth-devara-semester-details-spring-2025 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Montserrat-SemiBold", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+  height: 315px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
